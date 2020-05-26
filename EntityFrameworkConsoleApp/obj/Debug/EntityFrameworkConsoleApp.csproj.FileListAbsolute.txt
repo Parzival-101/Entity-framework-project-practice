@@ -1,0 +1,16 @@
+E:\projects\Vidzy\EntityFrameworkConsoleApp\obj\Debug\EntityFrameworkConsoleApp.csprojAssemblyReference.cache
+E:\projects\Vidzy\EntityFrameworkConsoleApp\obj\Debug\EntityFrameworkConsoleApp.csproj.CoreCompileInputs.cache
+E:\projects\Vidzy\EntityFrameworkConsoleApp\bin\Debug\EntityFrameworkConsoleApp.exe.config
+E:\projects\Vidzy\EntityFrameworkConsoleApp\bin\Debug\EntityFrameworkConsoleApp.exe
+E:\projects\Vidzy\EntityFrameworkConsoleApp\bin\Debug\EntityFrameworkConsoleApp.pdb
+E:\projects\Vidzy\EntityFrameworkConsoleApp\bin\Debug\EntityFramework.dll
+E:\projects\Vidzy\EntityFrameworkConsoleApp\bin\Debug\EntityFramework.SqlServer.dll
+E:\projects\Vidzy\EntityFrameworkConsoleApp\bin\Debug\EntityFramework.xml
+E:\projects\Vidzy\EntityFrameworkConsoleApp\bin\Debug\EntityFramework.SqlServer.xml
+E:\projects\Vidzy\EntityFrameworkConsoleApp\obj\Debug\EntityFrameworkConsoleApp.csproj.CopyComplete
+E:\projects\Vidzy\EntityFrameworkConsoleApp\obj\Debug\EntityFrameworkConsoleApp.exe
+E:\projects\Vidzy\EntityFrameworkConsoleApp\obj\Debug\EntityFrameworkConsoleApp.pdb
+E:\projects\Vidzy\EntityFrameworkConsoleApp\obj\Debug\EntityFrameworkConsoleApp.Migrations.InitialModel.resources
+E:\projects\Vidzy\EntityFrameworkConsoleApp\obj\Debug\EntityFrameworkConsoleApp.csproj.GenerateResource.cache
+E:\projects\Vidzy\EntityFrameworkConsoleApp\obj\Debug\EntityFrameworkConsoleApp.Migrations.InitialModel1.resources
+E:\projects\Vidzy\EntityFrameworkConsoleApp\obj\Debug\EntityFrameworkConsoleApp.Migrations.FixedRelationBetweenVideoAndGenre.resources
