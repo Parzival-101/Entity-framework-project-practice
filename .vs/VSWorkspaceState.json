@@ -3,9 +3,9 @@
     "",
     "\\EntityFrameworkConsoleApp",
     "\\EntityFrameworkConsoleApp\\bin",
-    "\\EntityFrameworkConsoleApp\\obj",
-    "\\EntityFrameworkConsoleApp\\Properties"
+    "\\EntityFrameworkConsoleApp\\Migrations",
+    "\\packages"
   ],
-  "SelectedNode": "\\EntityFrameworkConsoleApp.sln",
+  "SelectedNode": "\\EntityFrameworkConsoleApp",
   "PreviewInSolutionExplorer": false
 }

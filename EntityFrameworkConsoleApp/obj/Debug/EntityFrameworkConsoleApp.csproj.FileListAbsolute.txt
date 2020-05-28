@@ -14,3 +14,4 @@ E:\projects\Vidzy\EntityFrameworkConsoleApp\obj\Debug\EntityFrameworkConsoleApp.
 E:\projects\Vidzy\EntityFrameworkConsoleApp\obj\Debug\EntityFrameworkConsoleApp.csproj.GenerateResource.cache
 E:\projects\Vidzy\EntityFrameworkConsoleApp\obj\Debug\EntityFrameworkConsoleApp.Migrations.InitialModel1.resources
 E:\projects\Vidzy\EntityFrameworkConsoleApp\obj\Debug\EntityFrameworkConsoleApp.Migrations.FixedRelationBetweenVideoAndGenre.resources
+E:\projects\Vidzy\EntityFrameworkConsoleApp\obj\Debug\EntityFrameworkConsoleApp.Migrations.VideoGenreRelation.resources

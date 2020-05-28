@@ -1,0 +1,20 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "task-EntityFrameworkConsoleApp",
+      "appliesTo": "EntityFrameworkConsoleApp/",
+      "type": "launch"
+    },
+    {
+      "taskName": "task-EntityFrameworkConsoleApp",
+      "appliesTo": "EntityFrameworkConsoleApp/",
+      "type": "launch"
+    },
+    {
+      "taskName": "task-EntityFrameworkConsoleApp",
+      "appliesTo": "EntityFrameworkConsoleApp/",
+      "type": "launch"
+    }
+  ]
+}

@@ -12,5 +12,11 @@ namespace EntityFrameworkConsoleApp
             {
 
             }
+        protected override void OnModelCreating(DbModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<Genre>()
+                .HasMany(g => g.Videos)
+                .WithRequired(v => v.Genres);
+        }
     }
 }

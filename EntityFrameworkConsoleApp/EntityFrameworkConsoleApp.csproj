@@ -77,6 +77,10 @@
     <Compile Include="Migrations\202005261323327_FixedRelationBetweenVideoAndGenre.Designer.cs">
       <DependentUpon>202005261323327_FixedRelationBetweenVideoAndGenre.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202005281118279_VideoGenreRelation.cs" />
+    <Compile Include="Migrations\202005281118279_VideoGenreRelation.Designer.cs">
+      <DependentUpon>202005281118279_VideoGenreRelation.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -108,6 +112,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202005261323327_FixedRelationBetweenVideoAndGenre.resx">
       <DependentUpon>202005261323327_FixedRelationBetweenVideoAndGenre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202005281118279_VideoGenreRelation.resx">
+      <DependentUpon>202005281118279_VideoGenreRelation.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
