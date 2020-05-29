@@ -17,6 +17,18 @@ namespace EntityFrameworkConsoleApp
             modelBuilder.Entity<Genre>()
                 .HasMany(g => g.Videos)
                 .WithRequired(v => v.Genres);
+
+            modelBuilder.Entity<Video>()
+                .Property(v => v.Name)
+                .IsRequired()
+                .HasMaxLength(255);
+
+           
+
+            modelBuilder.Entity<Genre>()
+                .Property(g => g.Name)
+                .IsRequired()
+                .HasMaxLength(255);
         }
     }
 }

@@ -16,3 +16,4 @@ E:\projects\Vidzy\EntityFrameworkConsoleApp\obj\Debug\EntityFrameworkConsoleApp.
 E:\projects\Vidzy\EntityFrameworkConsoleApp\obj\Debug\EntityFrameworkConsoleApp.Migrations.FixedRelationBetweenVideoAndGenre.resources
 E:\projects\Vidzy\EntityFrameworkConsoleApp\obj\Debug\EntityFrameworkConsoleApp.Migrations.VideoGenreRelation.resources
 E:\projects\Vidzy\EntityFrameworkConsoleApp\obj\Debug\EntityFrameworkConsoleApp.Migrations.Add_ClassificationOnVideo.resources
+E:\projects\Vidzy\EntityFrameworkConsoleApp\obj\Debug\EntityFrameworkConsoleApp.Migrations.NameDataTypeFixed.resources

@@ -3,9 +3,7 @@
     "",
     "\\EntityFrameworkConsoleApp",
     "\\EntityFrameworkConsoleApp\\bin",
-    "\\EntityFrameworkConsoleApp\\Migrations",
     "\\packages"
   ],
-  "SelectedNode": "\\EntityFrameworkConsoleApp\\VidzyContext.cs",
   "PreviewInSolutionExplorer": false
 }
