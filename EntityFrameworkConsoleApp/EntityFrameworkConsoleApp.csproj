@@ -89,6 +89,10 @@
     <Compile Include="Migrations\202005290659306_NameDataTypeFixed.Designer.cs">
       <DependentUpon>202005290659306_NameDataTypeFixed.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202005300412390_AddTagTable.cs" />
+    <Compile Include="Migrations\202005300412390_AddTagTable.Designer.cs">
+      <DependentUpon>202005300412390_AddTagTable.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -129,6 +133,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202005290659306_NameDataTypeFixed.resx">
       <DependentUpon>202005290659306_NameDataTypeFixed.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202005300412390_AddTagTable.resx">
+      <DependentUpon>202005300412390_AddTagTable.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

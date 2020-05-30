@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace EntityFrameworkConsoleApp
 {
-    public class Video
+ public class Video
     {
         public int Id { get; set; }
         public string Name { get; set; }
@@ -12,6 +12,7 @@ namespace EntityFrameworkConsoleApp
         [Column("GenreId")]
         public Genre Genres { get; set; }
         public Classification Level { get; set; }
+        public IList<Tag> Tags { get; set; }
     }
     public enum Classification
         :byte
@@ -19,5 +20,12 @@ namespace EntityFrameworkConsoleApp
         Silver =1,
         Gold = 2,
         Platinum =3
+    }
+    public class Tag
+    {
+
+        public int Id { get; set; }
+        public string Name { get; set; }
+        public Video Videos { get; set; }
     }
 }

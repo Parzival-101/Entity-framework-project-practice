@@ -6,6 +6,7 @@ namespace EntityFrameworkConsoleApp
         {
             public DbSet<Video> Videos { get; set; }
             public DbSet<Genre> Genres { get; set; }
+            public DbSet<Tag> Tags { get; set; }
 
             public VidzyContext()
                 :base("name =DefaultConnection")
@@ -23,8 +24,14 @@ namespace EntityFrameworkConsoleApp
                 .IsRequired()
                 .HasMaxLength(255);
 
-           
-
+            modelBuilder.Entity<Video>()
+                .HasMany(v => v.Tags)
+                .WithOptional(t => t.Videos)
+                .Map(m =>
+                {
+                    m.MapKey("VideoId");
+                });
+                
             modelBuilder.Entity<Genre>()
                 .Property(g => g.Name)
                 .IsRequired()
